@@ -7,3 +7,4 @@ Run the `main.py`
 ```
 python main.py
 ```
+The output will be the number of frames required for launching a successful tracker hijacking attack, and the position for fabricate adversarial bounding box in each attack frame. 
