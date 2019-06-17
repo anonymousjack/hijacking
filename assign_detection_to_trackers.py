@@ -20,8 +20,6 @@ def assign_detections_to_trackers(trackers_obj, detections_obj, iou_thrd=0.3):
     unmatchted trackers, unmatched detections.
     '''
 
-    # C:\Users\yantaolu\Desktop\apollo-master\apollo-master\modules\perception\camera\lib\obstacle\tracker\omt\omt_obstacle_tracker.cc
-
     trackers = [temp_obj['bbox'] for temp_obj in trackers_obj]
     detections = [temp_obj['bbox'] for temp_obj in detections_obj]
 
