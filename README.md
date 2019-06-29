@@ -5,6 +5,6 @@ wget https://perceptron-benchmark.s3-us-west-1.amazonaws.com/models/coco/yolov3.
 ```
 Run the `main.py`
 ```
-python main.py
+python3 main.py
 ```
 The output will be the number of frames required for launching a successful tracker hijacking attack, and the position for fabricate adversarial bounding box in each attack frame. 
