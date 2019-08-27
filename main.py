@@ -13,7 +13,7 @@ if __name__ == "__main__":
             ('move-in-zoomed/01.mp4', 3, [188, 284, 247, 309], None),
             ('move-in-zoomed/02.mp4', 3, [195, 233, 289, 264], None),
             ('move-in-zoomed/03.mp4', 3, [238, 194, 319, 256], None),
-            ('move-in-zoomed/04.mp4', 3, [229, 231, 305, 267], None)
+            ('move-in-zoomed/04.mp4', 3, [229, 231, 305, 267], None),
             ('move-in-zoomed/05.mp4', 3, [202, 172, 277, 222], None),
             ('move-in-zoomed/06.mp4', 3, [236, 230, 334, 298], None),
             ('move-in-zoomed/07.mp4', 3, [195, 203, 252, 260], None),
